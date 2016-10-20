@@ -13,7 +13,7 @@ As a pack developer , you dont need to know the details of **system architecture
 * [Components](#component) are the lowest level building blocks
 * [Platforms](#platform) consist of components and relationships for dependencies and management
 * [Assemblies](../#assemblies-api) consist of platforms with interdependencies
-* Environments :consist of assemblies plus availability mode components inserted for you
+* Environments consist of assemblies plus availability mode components inserted for you
 
 The UI allows customization of components, platforms, assemblies, and environments.
 
